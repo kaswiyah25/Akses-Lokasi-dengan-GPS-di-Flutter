@@ -1,16 +1,33 @@
-# modul_12
+# Lokasi Saya
 
-A new Flutter project.
+Project ini merupakan aplikasi Flutter sederhana yang menampilkan lokasi pengguna secara real-time, termasuk informasi kelurahan/kecamatan dan kota. Aplikasi ini dibuat untuk memenuhi tugas Modul 12 pada mata kuliah Pemrograman Mobile.
 
-## Getting Started
+Deskripsi Singkat
 
-This project is a starting point for a Flutter application.
+Aplikasi ini memanfaatkan GPS perangkat untuk mendapatkan koordinat latitude dan longitude, kemudian melakukan proses reverse geocoding untuk mengonversi koordinat tersebut menjadi alamat yang mudah dibaca oleh pengguna. Hasil lokasi akan ditampilkan pada layar setelah pengguna menekan tombol “Tampilkan Lokasi Saat Ini”.
 
-A few resources to get you started if this is your first Flutter project:
+Fitur Utama
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Mengambil lokasi terbaru dari perangkat.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Menampilkan nama kelurahan/kecamatan.
+
+Menampilkan nama kota.
+
+UI sederhana dan responsif.
+
+Teknologi yang Digunakan
+
+Flutter
+
+Geolocator (untuk mendapatkan GPS)
+
+Geocoding (untuk mengubah koordinat menjadi alamat)
+
+Tujuan Pembelajaran
+
+Memahami penggunaan permission lokasi di Flutter.
+
+Mempelajari cara memanfaatkan plugin geolokasi.
+
+Mengimplementasikan state management sederhana dalam aplikasi.
