@@ -8,26 +8,17 @@ Aplikasi ini memanfaatkan GPS perangkat untuk mendapatkan koordinat latitude dan
 
 Fitur Utama
 
-Mengambil lokasi terbaru dari perangkat.
-
-Menampilkan nama kelurahan/kecamatan.
-
-Menampilkan nama kota.
-
-UI sederhana dan responsif.
-
-Teknologi yang Digunakan
+1. Mengambil lokasi terbaru dari perangkat.
+2. Menampilkan nama kelurahan/kecamatan.
+3. Menampilkan nama kota.
+4. UI sederhana dan responsif.
+5. Teknologi yang Digunakan
 
 Flutter
 
-Geolocator (untuk mendapatkan GPS)
-
-Geocoding (untuk mengubah koordinat menjadi alamat)
-
-Tujuan Pembelajaran
-
-Memahami penggunaan permission lokasi di Flutter.
-
-Mempelajari cara memanfaatkan plugin geolokasi.
-
-Mengimplementasikan state management sederhana dalam aplikasi.
+1. Geolocator (untuk mendapatkan GPS)
+2. Geocoding (untuk mengubah koordinat menjadi alamat)
+3. Tujuan Pembelajaran
+4. Memahami penggunaan permission lokasi di Flutter.
+5. Mempelajari cara memanfaatkan plugin geolokasi.
+6. Mengimplementasikan state management sederhana dalam aplikasi.
